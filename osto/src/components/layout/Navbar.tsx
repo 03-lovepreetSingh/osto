@@ -49,7 +49,7 @@ export function Navbar() {
           {/* CTA Button */}
           <div className="hidden md:block">
             <Link href="/demo">
-              <Button>Let&lsquo;s Chat</Button>
+              <Button>Book a demo</Button>
             </Link>
           </div>
 
