@@ -93,8 +93,6 @@ export default function CloudSecurity() {
                   height={1280}
                   width={1280}
                   src={cloudImg}
-                  height={1280}
-                  width={1280}
                   alt="Cloud Security Dashboard"
                   className="w-full h-auto rounded-lg shadow-lg"
                 />
