@@ -18,7 +18,7 @@ export default function CloudSecurity() {
             </h1>
             <p className="text-lg text-gray-600">
               Comprehensive protection for your cloud infrastructure,
-              applications, and data
+              applications, and data.
             </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-16">
